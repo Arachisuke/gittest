@@ -1,23 +1,23 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   test.h                                             :+:      :+:    :+:   */
+/*   minishell.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: wzeraig <wzeraig@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/09/14 17:21:34 by wzeraig           #+#    #+#             */
-/*   Updated: 2024/09/14 17:38:48 by wzeraig          ###   ########.fr       */
+/*   Created: 2024/09/14 17:25:13 by wzeraig           #+#    #+#             */
+/*   Updated: 2024/09/14 17:56:37 by wzeraig          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef TEST_H
-#define TEST_H
+int	main(int argc, char **argv)
+{
+	while (1 != 2)
+	{
+	}
+}
 
-#include <stdio.h>
-#include <unistd.h>
-#include <readline/history.h>
-#include <readline/readline.h>
-#include <stdlib.h>
-#include <linux/limits.h>
 
-#endif
+
+
+wqrdqwed
