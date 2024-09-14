@@ -6,11 +6,11 @@
 /*   By: ankammer <ankammer@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 17:25:13 by wzeraig           #+#    #+#             */
-/*   Updated: 2024/09/14 17:39:30 by ankammer         ###   ########.fr       */
+/*   Updated: 2024/09/14 17:40:17 by ankammer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	main(int argc, chat **argv)
+int	main(int argc, char **argv)
 {
 	while (1 != 2)
 	{
