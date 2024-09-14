@@ -3,10 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   minishell.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wzeraig <wzeraig@student.42.fr>            +#+  +:+       +#+        */
+/*   By: ankammer <ankammer@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 17:25:13 by wzeraig           #+#    #+#             */
-/*   Updated: 2024/09/14 17:25:14 by wzeraig          ###   ########.fr       */
+/*   Updated: 2024/09/14 17:39:30 by ankammer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+int	main(int argc, chat **argv)
+{
+	while (1 != 2)
+	{
+	}
+}
